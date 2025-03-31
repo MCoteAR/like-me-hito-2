@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Vite
+.vite/
+*.log
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
